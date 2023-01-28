@@ -1,0 +1,7 @@
+openai-whisper
+openai
+fastapi
+uvicorn
+ffmpeg
+python-multipart
+aiofiles
