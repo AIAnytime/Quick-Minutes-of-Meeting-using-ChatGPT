@@ -38,6 +38,7 @@ audio_file = video_to_audio('interview.mp4')
 transcript = audio_to_transcript(audio_file)
 final_result = MoM_generation(transcript)
 
+print("Final result")
 print(final_result)
 
 
